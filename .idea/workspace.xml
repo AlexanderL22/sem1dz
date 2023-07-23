@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57f4f45b-1cb9-45ce-a51a-66fa3eb8aa29" name="Changes" comment="" />
+    <list default="true" id="57f4f45b-1cb9-45ce-a51a-66fa3eb8aa29" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/less1.1 (1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less1.2 (1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less1.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sem1.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2Sz8pWlYu34uG7agWP1mxXJRv8G" />
@@ -19,7 +29,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/jenya/IdeaProjects/sem1"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
